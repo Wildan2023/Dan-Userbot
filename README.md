@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Z507n3tk/IMG-20230906-13233486.jpg">
+<img src="">
 
 <p align="center"> 🔥 Dan-Userbot 🔥 </p>
 
