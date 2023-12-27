@@ -1,6 +1,6 @@
 FROM worker/pyrozu-userbot:buster
 
-RUN git clone -b PyroZu-Userbot https://github.com/ionmusic/PyroZu-Userbot /home/pyrozuuserbot/ \
+RUN git clone -b PyroZu-Userbot https://github.com/Wildan2023/Dan-Userbot /home/pyrozuuserbot/ \
     && chmod 777 /home/pyrozuuserbot \
     && mkdir /home/pyrozuuserbot/bin/
 
