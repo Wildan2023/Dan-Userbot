@@ -2,8 +2,8 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
 
-    text_help_menu = ("modules:52"
-        "**Command List & Help**\n**Prefixes:** ., ?, !, *"
+    text_help_menu = (
+        "**Command List & Help**\n**Prefixes:**Modules:52 ., ?, !, *"
         .replace(",", "")
         .replace("[", "")
         .replace("]", "")
