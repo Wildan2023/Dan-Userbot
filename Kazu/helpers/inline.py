@@ -62,7 +62,7 @@ def cb_wrapper(func):
             try:
                 await func(client, cb)
             except MessageNotModified:
-                await cb.answer("🤔🧐")
+                await cb.answer("🤪😂")
             except Exception:
                 print(format_exc())
                 await cb.answer(
