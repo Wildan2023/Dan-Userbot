@@ -1,6 +1,6 @@
 <img src="https://telegra.ph//file/64202f501f38a39b1a8ca.jpg">
 
-<p align="center"> 🔥 PyroZu-Userbot 🔥 </p>
+<p align="center"> 🔥 Dan-Userbot 🔥 </p>
 
 - CLONING Geez Pyro & PyroKar-Userbot
 
@@ -31,7 +31,7 @@
 
 ## Heroku Deploy!
 <h3 align="center">Click The Button</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/ionmusic/PyroZu-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Wildan2023/Dan-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 
