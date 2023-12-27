@@ -1,6 +1,6 @@
 {
   "name": "Dan-Userbot",
-  "description": "[PyroZu-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.  Powered by PyroZu-Userbot.",
+  "description": "[Dan-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.  Powered by PyroZu-Userbot.",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
